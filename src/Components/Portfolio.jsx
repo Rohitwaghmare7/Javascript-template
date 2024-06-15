@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/portfolio_landscape.jpg";
+import image from "../images/portfolio.jpg";
 
 const imageAltText = "Portfolio landscape Background";
 
@@ -31,28 +31,28 @@ const imageAltText = "Portfolio landscape Background";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Preet Makeup",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A sleek and modern website built with ReactJS, showcasing a makeup artist's portfolio, services, and client testimonials through dynamic galleries and interactive booking features.",
+    url: "https://github.com/SAWASTHA/MakeUp",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Dating App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A sophisticated dating app built with Flutter, offering users a smooth and engaging interface for connecting with potential matches.",
+    url: "https://github.com/Rohitwaghmare7/DatingApp",
   },
   {
-    title: "My Resume Site",
+    title: "Social Media App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The Social Media App is a feature-rich, React-based application that allows users to connect, share, and engage with content in a dynamic and interactive environment.",
+    url: " https://6651813fa8055ad888175684--leafy-dieffenbachia-a74145.netlify.app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "SWASTHA",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The project 'SWASTHA' was developed by me and my team members as a solution to one of the problem statements of Smart India Hackathon (SIH-2022)",
+    url: "https://github.com/Rohitwaghmare7/swastha",
   },
 ];
 

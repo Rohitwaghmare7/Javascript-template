@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/about_lanscape.jpg";
+import image from "../images/about.jpg";
 
 const imageAltText = "About landscape background";
 
@@ -24,19 +24,23 @@ const imageAltText = "About landscape background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a recent Computer Science graduate with a solid foundation in programming, algorithms, and software development.Eager to contribute my technical skills and enthusiasm for problem-solving to a dynamic team.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "MERN Stack Development",
+  "DSA",
+  "Flutter",
+  "Dart",
+  "Figma",
+  "JavaScript",
+  "Java",
+  "C/C++",
+  "Firebase",
+  "UiPath Automation",
 ];
 
 /**
@@ -45,7 +49,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
